@@ -89,7 +89,7 @@ const vikas = {
 
 <div align="center">
 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=bikasraj&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
+
 </div>
 
 <div align="center">
