@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Vikas Kumar
+# 🌟 Bikas Kumar
 
 ### 💫 Software Engineer | Web Developer | Game Dev Enthusiast
 
