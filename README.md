@@ -93,16 +93,7 @@ const vikas = {
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikasraj&layout=compact&hide_border=true&title_color=F85D7F&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
   <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=bikasraj&theme=github-dark&hide_border=true&bg_color=0d1117&color=F85D7F&line=F8D866&point=c9d1d9&area=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bikasraj&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
