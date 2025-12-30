@@ -4,9 +4,9 @@
 
 ### 💫 Software Engineer | Web Developer | Game Dev Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Amazing+Web+Apps+%F0%9F%8C%90;Game+Development+Enthusiast+%F0%9F%8E%AE;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6CE5E8&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Amazing+Web+Apps+%F0%9F%8C%90;Game+Development+Enthusiast+%F0%9F%8E%AE;Open+Source+Contributor+%E2%9C%A8)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
@@ -23,7 +23,7 @@ const vikas = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💼 Tech Stack
 
@@ -74,31 +74,29 @@ const vikas = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bikasraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5E8&icon_color=6CE5E8&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bikasraj&theme=tokyonight&hide_border=true&background=0D1117&stroke=6CE5E8&ring=6CE5E8&fire=FF6B6B&currStreakLabel=6CE5E8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bikasraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE5E8&text_color=FFFFFF)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bikasraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=bikasraj&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikasraj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikasraj&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bikasraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=bikasraj&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💡 What I Do
 
@@ -124,7 +122,7 @@ const dailyRoutine = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌐 Connect With Me
 
@@ -137,35 +135,36 @@ const dailyRoutine = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
 ### 📈 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=bikasraj&color=6CE5E8&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=bikasraj&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
 
-### 🐍 Contribution Graph
+### 🐍 Watch my contribution graph get eaten by the snake!
 
-![Snake animation](https://raw.githubusercontent.com/bikasraj/bikasraj/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/bikasraj/bikasraj/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
 ### 💭 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 📊 This Week's Coding Stats
 
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
@@ -177,11 +176,13 @@ If you like my projects, consider buying me a coffee! ☕
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
 ### ⭐ Show some ❤️ by starring some repositories!
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 **Made with 💙 by Vikas Kumar**
 
